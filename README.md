@@ -56,7 +56,12 @@ export POSTGRES_PORT=required
 export PYTHONPATH=StatisticsMicroservice
 ```
 
-### 5. Запустить проект
+### 5. Предоставить доступ к скрипту запуска
+``` shell
+chmod +x scripts/start.sh
+```
+
+### 6. Запустить проект
 ``` shell
 scripts/start.sh
 ```
