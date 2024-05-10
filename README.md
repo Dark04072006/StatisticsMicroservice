@@ -1,6 +1,6 @@
 # Trade Marketing Statistics Microservice
 
-Этот проект представляет собой реализацию [тестового задания для стажёра Backend в команду Trade Marketing](https://github.com/Dark04072006/StatisticsMicroservice/assets/ТЗ.md). Он представляет собой микросервис для работы со статистическими данными.
+Этот проект представляет собой реализацию [тестового задания для стажёра Backend в команду Trade Marketing](https://github.com/Dark04072006/StatisticsMicroservice/blob/main/assets/ТЗ.md). Он представляет собой микросервис для работы со статистическими данными.
 
 ## Технологический стек:
 
@@ -53,7 +53,6 @@ export POSTGRES_PASSWORD=required
 export POSTGRES_DB=required
 export POSTGRES_HOST=required
 export POSTGRES_PORT=required
-export PYTHONPATH=StatisticsMicroservice
 ```
 
 ### 5. Предоставить доступ к скрипту запуска
